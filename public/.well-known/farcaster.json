@@ -1,0 +1,11 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Base Mini NFT",
+    "iconUrl": "https://mintnft1.vercel.app/api/icon",
+    "homeUrl": "https://mintnft1.vercel.app",
+    "imageUrl": "https://mintnft1.vercel.app/api/og",
+    "splashImageUrl": "https://mintnft1.vercel.app/api/og",
+    "splashBackgroundColor": "#0052FF"
+  }
+}
