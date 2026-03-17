@@ -15,7 +15,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta name="base:app_id" content="bc_0gzcyaft" />
         <meta name="base:app_id" content="69b8fe0c2d5d7c1605e632ff" />
         <script
           src="https://base.org/attribution.js"
